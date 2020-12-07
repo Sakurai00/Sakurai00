@@ -1,5 +1,4 @@
-### Hi there 👋
-
+どうも、私は雑魚です。対戦ありがとうございました。
 <!--
 **Sakurai00/Sakurai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
